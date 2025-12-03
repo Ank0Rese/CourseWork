@@ -1,0 +1,241 @@
+{
+  "143": {
+    "array": [
+      {
+        "title": "Кава розчинна",
+        "nid": "26359",
+        "img": "https://dummyimage.com/300x300/6b4c35/fff.png&text=Coffee+Jacobs",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Jacobs Monarch, 170 г",
+        "old_price": "179.99",
+        "new_price": "129.99",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Макаронні вироби",
+        "nid": "26401",
+        "img": "https://dummyimage.com/300x300/f5d76e/000.png&text=Pasta",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Чумак, Спіральки, 1 кг",
+        "old_price": "45.00",
+        "new_price": "32.50",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Олія соняшникова",
+        "nid": "26402",
+        "img": "https://dummyimage.com/300x300/fce38a/000.png&text=Oil",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Олейна, рафінована, 850 мл",
+        "old_price": "62.00",
+        "new_price": "54.90",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Гречка",
+        "nid": "26403",
+        "img": "https://dummyimage.com/300x300/8d6e63/fff.png&text=Buckwheat",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Хуторок, ядриця, 800 г",
+        "old_price": "75.00",
+        "new_price": "59.99",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Чай чорний",
+        "nid": "26404",
+        "img": "https://dummyimage.com/300x300/d35400/fff.png&text=Tea",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Lipton Yellow Label, 25 пак.",
+        "old_price": "48.00",
+        "new_price": "39.90",
+        "action_id": [ 1 ]
+      }
+    ]
+  },
+  "142": {
+    "array": [
+      {
+        "title": "Вино червоне",
+        "nid": "26360",
+        "img": "https://dummyimage.com/300x300/722f37/fff.png&text=Red+Wine",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Напівсолодке, Коблево, 0.7 л",
+        "old_price": "199.99",
+        "new_price": "159.99",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Пиво світле",
+        "nid": "26361",
+        "img": "https://dummyimage.com/300x300/fbbd08/fff.png&text=Beer",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Львівське 1715, 0.5 л, скло",
+        "old_price": "29.99",
+        "new_price": "25.99",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Віскі",
+        "nid": "26362",
+        "img": "https://dummyimage.com/300x300/d4a373/fff.png&text=Whiskey",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Jameson, ірландський, 0.5 л",
+        "old_price": "650.00",
+        "new_price": "499.00",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Сидр",
+        "nid": "26363",
+        "img": "https://dummyimage.com/300x300/95a5a6/fff.png&text=Cider",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Somersby, яблучний, 0.5 л",
+        "old_price": "42.00",
+        "new_price": "35.50",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Вино ігристе",
+        "nid": "26364",
+        "img": "https://dummyimage.com/300x300/ffcdd2/000.png&text=Sparkling",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Fragolino Fiorelli Bianco, 0.75 л",
+        "old_price": "220.00",
+        "new_price": "189.00",
+        "action_id": [ 1 ]
+      }
+    ]
+  },
+  "145": {
+    "array": [
+      {
+        "title": "Засіб для миття посуду",
+        "nid": "26501",
+        "img": "https://dummyimage.com/300x300/a2dbf5/000.png&text=Fairy",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Fairy, Лимон, 500 мл",
+        "old_price": "65.00",
+        "new_price": "49.99",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Пральний порошок",
+        "nid": "26502",
+        "img": "https://dummyimage.com/300x300/ffffff/000.png&text=Persil",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Persil, автомат, 3 кг",
+        "old_price": "450.00",
+        "new_price": "329.00",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Шампунь",
+        "nid": "26503",
+        "img": "https://dummyimage.com/300x300/3498db/fff.png&text=Shampoo",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Head & Shoulders, 400 мл",
+        "old_price": "180.00",
+        "new_price": "145.00",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Мило рідке",
+        "nid": "26504",
+        "img": "https://dummyimage.com/300x300/2ecc71/fff.png&text=Soap",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Varto, Алое, 500 мл",
+        "old_price": "35.00",
+        "new_price": "28.50",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Зубна паста",
+        "nid": "26505",
+        "img": "https://dummyimage.com/300x300/e74c3c/fff.png&text=Colgate",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "Colgate, Потрійна дія, 100 мл",
+        "old_price": "85.00",
+        "new_price": "69.90",
+        "action_id": [ 1 ]
+      }
+    ]
+  },
+  "147": {
+    "array": [
+      {
+        "title": "Молоко",
+        "nid": "26601",
+        "img": "https://dummyimage.com/300x300/ecf0f1/000.png&text=Milk",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Яготинське, 2.6%, 900 г",
+        "old_price": "42.00",
+        "new_price": "36.50",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Масло вершкове",
+        "nid": "26602",
+        "img": "https://dummyimage.com/300x300/f1c40f/fff.png&text=Butter",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Ферма, 73%, 200 г",
+        "old_price": "89.00",
+        "new_price": "69.90",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Сир твердий",
+        "nid": "26603",
+        "img": "https://dummyimage.com/300x300/f39c12/fff.png&text=Cheese",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Комо, Російський, 150 г",
+        "old_price": "65.00",
+        "new_price": "49.90",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Йогурт",
+        "nid": "26604",
+        "img": "https://dummyimage.com/300x300/e91e63/fff.png&text=Yogurt",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Активіа, Полуниця, 290 г",
+        "old_price": "38.00",
+        "new_price": "29.50",
+        "action_id": [ 1 ]
+      },
+      {
+        "title": "Сметана",
+        "nid": "26605",
+        "img": "https://dummyimage.com/300x300/bdc3c7/000.png&text=Sour+Cream",
+        "field_startdate_value": "2025-10-25 00:00:00",
+        "field_stopdate_value": "2025-11-07 00:00:00",
+        "body_value": "ТМ Простоквашино, 15%, 350 г",
+        "old_price": "45.00",
+        "new_price": "38.00",
+        "action_id": [ 1 ]
+      }
+    ]
+  },
+  "146": { "array": [] },
+  "201": { "array": [] },
+  "202": { "array": [] }
+}
